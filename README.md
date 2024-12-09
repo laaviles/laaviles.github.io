@@ -2,9 +2,9 @@
 
 insert Introduction 
 
-# Statement 
+[My thoughts and interactions with this class.](statemend.md). 
 
-Insert Statement 
+
 
 ## Looking Forward
 
