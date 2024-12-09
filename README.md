@@ -1,11 +1,11 @@
-# Statement from my experience in this class
+# Introduction
 
-Insert statement here 
+insert Introduction 
 
-# Heading 1
+# Statement 
 
-Write Statement 
+Insert Statement 
 
-## Heading 2
+## Looking Forward
 
 This is a link to [my Looking Forward statment](lookingforward.html).
