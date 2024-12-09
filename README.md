@@ -1,6 +1,6 @@
-# laaviles.github.io
+# Statement from my experience in this class
 
-Hello world!
+Insert statement here 
 
 # Heading 1
 
