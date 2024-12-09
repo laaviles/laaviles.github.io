@@ -2,7 +2,7 @@
 
 insert Introduction 
 
-[My thoughts and interactions with this class.](statemend.md). 
+[My thoughts and interactions with this class.](statemend.md) 
 
 
 
