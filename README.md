@@ -20,15 +20,27 @@ We did a field trip to the Kislak Center for special collections, rare books and
   <figcaption>Bem’s Charts of Chronology by Elizabeth Peabody.</figcaption>
 </figure>
 
+<div style="width: 50%; float: right; margin-left: 10px;">
+    <img src="/assets/kislakprisonbook.jpg/" alt="Women's Prison Record Book" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+       Women's prison record book.
+    </p>
+</div>
+
+<div style="width: 50%; float: left; margin-right: 10px;">
+    <img src="/assets/chronologybook.jpg/" alt="Bem’s Charts of Chronology by Elizabeth Peabody" style="width: 100%;">
+    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+       Bem’s Charts of Chronology by Elizabeth Peabody.
+    </p>
+</div>
 
 Similarly our field trip to Eastern State Penitentiary (ESP)  affirmed my interests in museums and interactive storytelling. At ESP, I was able to see the behind the scenes of the transformation of ruins into a place of education and memory. This experience informed our critical making assignment. Our project involved choosing specific articles that described the baseball league of 1913 and linking them to NFC tags that were placed onto a 3-D printed version of the ESP baseball field. 	I enjoyed this project because it gave me an idea of how much thought goes into curating a data set to be able to tell a story. I think we did a great job at curating those articles and placing them on their designated bases to add narrative depth to the viewers sequential reading.
 
-<p align="center"> 
 <figure>
   <img src="/assets/espmodel.jpg/" width= 50% alt="ESP Baseball Field Model">
   <figcaption> ESP Baseball field model with the NFC tags. </figcaption>
 </figure>
-</p>
+
 
 The multimedia essay assignment was another exercise of interacting with data through storytelling. I decided to write about American expansionism at ESP, specifically how these ideas were represented in The Umpire.  This essay taught me how to carefully craft a story by connecting the small amount of data I could find. Writing this piece was a challenge for me because it was my first time crafting an essay with so little information but I was pleased with the end result.  I also had to incorporate media, so I chose a picture of the article I analyzed but if I could revise it I would change how the picture fits into the website and  add other pictures related to enhance the visual appeal of the webpage. Overall I would focus on better integrating the media elements into the design. I think all I need is more practice with coding in MML and learning all the ways an image can be coded into the page. 
 
