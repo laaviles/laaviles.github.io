@@ -9,22 +9,22 @@ In the first class, we discussed foundational concepts: data, metadata, sorting,
 
 We did a field trip to the Kislak Center for special collections, rare books and manuscripts. There I was able to see how data was recorded and visualized in the past. I saw an old women's prison book and it surprised me how much it looked like a modern excel sheet. This revealed parallels between the past and the present in the ways of organizing information. Another book that got me curious was Bem’s Charts of Chronology by Elizabeth Peabody.  The interactive book had empty grids that were meant to be colored depending on the group of people who experienced certain events like wars, ascensions, and death.  This book is a great example of a mix between pedagogy and data visualization to offer a unique way of processing historical data. I think this was one of the coolest books I have ever seen. I find it fascinating how such an inventive tool existed long before modern visualization technologies. This excursion to the library definitely affirmed my interest in history, specifically how we used to do things in the past, the old technology we invented but have fallen out of use. 
 
+<p align="center">
 <figure> 
-  <img src="/assets/kislakprisonbook.jpg/" width="200" height="100" alt="Women's Prison Record Book" >
+  <img src="/assets/kislakprisonbook.jpg/" width= 45% alt="Women's Prison Record Book" >
   <figcaption> Women's prison record book. </figcaption>
 </figure>
 
 <figure> 
-  <img src="/assets/chronologybook.jpg/"width="200" height="100" alt="Bem’s Charts of Chronology by Elizabeth Peabody" >
+  <img src="/assets/chronologybook.jpg/ width= 45% alt="Bem’s Charts of Chronology by Elizabeth Peabody" >
   <figcaption> Bem’s Charts of Chronology by Elizabeth Peabody. </figcaption>
 </figure>
-
-
+</p>
 
 Similarly our field trip to Eastern State Penitentiary (ESP)  affirmed my interests in museums and interactive storytelling. At ESP, I was able to see the behind the scenes of the transformation of ruins into a place of education and memory. This experience informed our critical making assignment. Our project involved choosing specific articles that described the baseball league of 1913 and linking them to NFC tags that were placed onto a 3-D printed version of the ESP baseball field. 	I enjoyed this project because it gave me an idea of how much thought goes into curating a data set to be able to tell a story. I think we did a great job at curating those articles and placing them on their designated bases to add narrative depth to the viewers sequential reading.
 
 <figure>
-  <img src="/assets/espmodel.jpg/" width="200" height="100" alt="ESP Baseball Field Model">
+  <img src="/assets/espmodel.jpg/" alt="ESP Baseball Field Model">
   <figcaption> ESP Baseball field model with the NFC tags. </figcaption>
 </figure>
 
