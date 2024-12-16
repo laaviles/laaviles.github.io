@@ -1,6 +1,6 @@
 
 ## Introduction
-Hi! I am Laura Avilés, and I took Introduction to Digital Humanities fall 2024. This class has exposed me to many different areas of the DH world. In this page I will explain my interaction with this class and the things I have learned. 
+Hi! I am Laura Avilés, and I took Introduction to Digital Humanities (DH) Fall 2024. This class has exposed me to many different areas of the DH world. In this page I will explain my interaction with this class and the things I have learned. 
 
 ## Statement 
 When I registered for this course, I had no idea what to expect. The description indicated that we were going to code but assured beginners like me that it was accessible. The reason I enrolled was to learn coding basics, little did I know I was going to learn a lot more about data and how to interact with it.  In preparation for the first class, I realized that this course is not what I expected it to be. One of the first videos we had to watch was Finding Humanity in Data <sup>1</sup>, a Ted Talk by Giorgia Lupi. Lupi talked about data visualization and how to center it around humans. The topic captured my attention because I had never seen anything like it before, more importantly, I didn't know it could be an area of study. With her talk and throughout this class, I understood that each data set tells a story, our job is to discover and articulate what that story is. 
