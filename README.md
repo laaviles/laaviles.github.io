@@ -12,12 +12,12 @@ We did a field trip to the Kislak Center for special collections, rare books and
 
 <figure> 
   <img src="/assets/kislakprisonbook.jpg/" width= 45% alt="Women's Prison Record Book" >
-<p align="center">  <figcaption> Women's prison record book. </figcaption> </p>
+ <figcaption> Women's prison record book. </figcaption>
 </figure>
 
 <figure> 
   <img src="/assets/chronologybook.jpg/" width= 45% alt="Bem’s Charts of Chronology by Elizabeth Peabody" >
- <p align="center"> <figcaption> Bem’s Charts of Chronology by Elizabeth Peabody. </figcaption> </p>
+ <figcaption> Bem’s Charts of Chronology by Elizabeth Peabody. </figcaption>
 </figure>
 
 
