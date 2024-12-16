@@ -53,4 +53,4 @@ Looking back at my work, I’m proud of the thoughtfulness I brought to projects
 
 ## Looking Forward
 
-Having gained a lot of new skills in this class, I can summarize three ways in whcih I can use these skills in the future. Please refer to my Looking Forward statement [here](lookingforward.html).
+Having gained new skills and interests in this class, I can summarize three ways in which I can use them in the future. Please refer to my Looking Forward statement [here](lookingforward.html).
