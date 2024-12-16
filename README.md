@@ -10,35 +10,28 @@ In the first class, we discussed foundational concepts: data, metadata, sorting,
 We did a field trip to the Kislak Center for special collections, rare books and manuscripts. There I was able to see how data was recorded and visualized in the past. I saw an old women's prison book and it surprised me how much it looked like a modern excel sheet. This revealed parallels between the past and the present in the ways of organizing information. Another book that got me curious was Bem’s Charts of Chronology by Elizabeth Peabody.  The interactive book had empty grids that were meant to be colored depending on the group of people who experienced certain events like wars, ascensions, and death.  This book is a great example of a mix between pedagogy and data visualization to offer a unique way of processing historical data. I think this was one of the coolest books I have ever seen. I find it fascinating how such an inventive tool existed long before modern visualization technologies. This excursion to the library definitely affirmed my interest in history, specifically how we used to do things in the past, the old technology we invented but have fallen out of use. 
 
 
-<figure> 
-  <img src="/assets/kislakprisonbook.jpg" width="45%" alt="Women's Prison Record Book">
-  <figcaption>Women's prison record book.</figcaption>
-</figure>
-
-<figure> 
-  <img src="/assets/chronologybook.jpg" width="45%" alt="Bem’s Charts of Chronology by Elizabeth Peabody">
-  <figcaption>Bem’s Charts of Chronology by Elizabeth Peabody.</figcaption>
-</figure>
-
-<div style="width: 50%; float: right; margin-left: 10px;">
-    <img src="/assets/kislakprisonbook.jpg/" alt="Women's Prison Record Book" style="width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+  <div style="width: 45%;">
+    <img src="/assets/kislakprisonbook.jpg" alt="Women's Prison Record Book" style="width: 100%; display: block;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
        Women's prison record book.
     </p>
-</div>
-
-<div style="width: 50%; float: left; margin-right: 10px;">
-    <img src="/assets/chronologybook.jpg/" alt="Bem’s Charts of Chronology by Elizabeth Peabody" style="width: 100%;">
+  </div>
+  <div style="width: 45%;">
+    <img src="/assets/chronologybook.jpg" alt="Bem’s Charts of Chronology by Elizabeth Peabody" style="width: 100%; display: block;">
     <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
        Bem’s Charts of Chronology by Elizabeth Peabody.
     </p>
+  </div>
 </div>
 
 Similarly our field trip to Eastern State Penitentiary (ESP)  affirmed my interests in museums and interactive storytelling. At ESP, I was able to see the behind the scenes of the transformation of ruins into a place of education and memory. This experience informed our critical making assignment. Our project involved choosing specific articles that described the baseball league of 1913 and linking them to NFC tags that were placed onto a 3-D printed version of the ESP baseball field. 	I enjoyed this project because it gave me an idea of how much thought goes into curating a data set to be able to tell a story. I think we did a great job at curating those articles and placing them on their designated bases to add narrative depth to the viewers sequential reading.
 
-<figure>
-  <img src="/assets/espmodel.jpg/" width= 50% alt="ESP Baseball Field Model">
-  <figcaption> ESP Baseball field model with the NFC tags. </figcaption>
+<figure style="text-align: center; margin: 20px auto;">
+  <img src="/assets/espmodel.jpg" alt="ESP Baseball Field Model" style="width: 50%; display: block; margin: 0 auto;">
+  <figcaption style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+    ESP Baseball field model with the NFC tags.
+  </figcaption>
 </figure>
 
 
@@ -50,9 +43,10 @@ At the start of the course I thought digital humanities was primarily about usin
 
 Looking back at my work, I’m proud of the thoughtfulness I brought to projects like the critical making assignment and the multimedia essay. I recognize I have areas of improvement like spending more time refining the visual aspects of the essay and trying different ways to represent the data. Overall, this course reshaped my understanding of digital humanities. It taught me that data can be more than just numbers, it can be a tool for storytelling and understanding the human experience. 
 
+
 # Works Cited
-1. Lupi, Giorgia. “ Finding Humanity in Data.” Youtube video. June 26, 2019. https://www.youtube.com/watch?v=IYRhCZ0vvFQ
-2. The History Project Documenting LGBTQ Boston “Out of the Archives: Trans History, Linked: A Conversation about the Digital Transgender Archive” Youtube Video. February 1, 2021. https://www.youtube.com/watch?v=fpvg58F6pL8
+1. Lupi, Giorgia. “ Finding Humanity in Data.” Youtube video. June 26, 2019. [https://www.youtube.com/watch?v=IYRhCZ0vvFQ](https://www.youtube.com/watch?v=IYRhCZ0vvFQ)
+2. The History Project Documenting LGBTQ Boston “Out of the Archives: Trans History, Linked: A Conversation about the Digital Transgender Archive” Youtube Video. February 1, 2021. [https://www.youtube.com/watch?v=fpvg58F6pL8](https://www.youtube.com/watch?v=fpvg58F6pL8)
 
 
 ## Looking Forward
