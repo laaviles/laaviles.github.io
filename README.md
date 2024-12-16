@@ -25,7 +25,7 @@ Similarly our field trip to Eastern State Penitentiary (ESP)  affirmed my intere
 
 <p align="center"> 
 <figure>
-  <img src="/assets/espmodel.jpg/" alt="ESP Baseball Field Model">
+  <img src="/assets/espmodel.jpg/" width= 50% alt="ESP Baseball Field Model">
   <figcaption> ESP Baseball field model with the NFC tags. </figcaption>
 </figure>
 </p>
