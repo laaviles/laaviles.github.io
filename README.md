@@ -9,20 +9,17 @@ In the first class, we discussed foundational concepts: data, metadata, sorting,
 
 We did a field trip to the Kislak Center for Special Collections, Rare Books and Manuscripts. There I was able to see how data was recorded and visualized in the past. I saw an old women's prison book and it surprised me how much it looked like a modern excel sheet. This revealed parallels between the past and the present in the ways of organizing information. Another book that intrigued me was *Bem’s Charts of Chronology by Elizabeth Peabody*.  The interactive book had empty grids that were meant to be colored depending on the group of people who experienced certain events, such as wars, ascensions, and death.  This book is a great example of a mix between pedagogy and data visualization to offer a unique way of processing historical data. I think this was one of the coolest books I have ever seen. I find it fascinating how such an inventive tool existed long before modern visualization technologies. This excursion to the library definitely affirmed my interest in history, specifically how we used to do things in the past, and how the old technology we invented but has fallen out of use. 
 
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <div style="width: 45%;">
-    <img src="/assets/kislakprisonbook.jpg" alt="Women's Prison Record Book" style="width: 100%; display: block;">
-    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-       Women's prison record book.
-    </p>
-  </div>
-  <div style="width: 45%;">
-    <img src="/assets/chronologybook.jpg" alt="Bem’s Charts of Chronology by Elizabeth Peabody" style="width: 100%; display: block;">
-    <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
-       Bem’s Charts of Chronology by Elizabeth Peabody.
-    </p>
-  </div>
+<div style="margin-bottom: 20px;">
+  <img src="/assets/kislakprisonbook.jpg" alt="Women's Prison Record Book" style="width: 100%; display: block;">
+  <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+    Women's prison record book.
+  </p>
+</div>
+<div style="margin-bottom: 20px;">
+  <img src="/assets/chronologybook.jpg" alt="Bem’s Charts of Chronology by Elizabeth Peabody" style="width: 100%; display: block;">
+  <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
+    Bem’s Charts of Chronology by Elizabeth Peabody.
+  </p>
 </div>
 
 Similarly, our field trip to [Eastern State Penitentiary (ESP)](espimages.html) affirmed my interests in museums and interactive storytelling. At ESP, I was able to see the behind the scenes of the transformation of ruins into a place of education and memory. This experience informed our critical making assignment. Our [project](https://docs.google.com/presentation/d/17Cz-xajMRvpZH50ABpU-6DRXRnzGDj27lHMO9cTO_kY/edit?usp=sharing) involved choosing specific articles that described the baseball league of 1913 and linking them to NFC tags that were placed onto a 3-D printed version of the ESP baseball field. I enjoyed this project because it gave me an idea of how much thought goes into curating a data set to be able to tell a story. In addtion, this project taught me how to work as a team and recognize we all have different strengths. As someone who finds pleasure in dividing big tasks into smaller ones, project manager was the perfect role for me. My leadership skills helped guide my team in the discussions and assess what needed to be done and when. With the help of Sophie, we did a great job at curating those articles and being intentional about their order on the baseball field model. If I were to change anything from this project, I would make the model bigger in order to properly fit a phone between the two buildings to be able read the last NFC tag (4). 
