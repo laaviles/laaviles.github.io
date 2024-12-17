@@ -10,7 +10,7 @@ In the first class, we discussed foundational concepts: data, metadata, sorting,
 We did a field trip to the Kislak Center for Special Collections, Rare Books and Manuscripts. There I was able to see how data was recorded and visualized in the past. I saw an old women's prison book and it surprised me how much it looked like a modern excel sheet. This revealed parallels between the past and the present in the ways of organizing information. Another book that intrigued me was *Bem’s Charts of Chronology by Elizabeth Peabody*.  The interactive book had empty grids that were meant to be colored depending on the group of people who experienced certain events, such as wars, ascensions, and death.  This book is a great example of a mix between pedagogy and data visualization to offer a unique way of processing historical data. I think this was one of the coolest books I have ever seen. I find it fascinating how such an inventive tool existed long before modern visualization technologies. This excursion to the library definitely affirmed my interest in history, specifically how we used to do things in the past, and how the old technology we invented but has fallen out of use. 
 
 <div style="margin-bottom: 20px;">
-  <img src="/assets/kislakprisonbook.jpg" alt="Women's Prison Record Book" style="width: 100%; display: block;">
+  <img src="/assets/kislakprisonbook.jpg" alt="Women's Prison Record Book" style="width: 70%; display: block; margin: 0 auto;">
   <p style="font-size: 0.8em; text-align: center; color: gray; margin-top: 5px;">
     Women's prison record book.
   </p>
