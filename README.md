@@ -46,7 +46,7 @@ At the start of the course I thought digital humanities was primarily about usin
 Looking back at my work, I am proud of the thoughtfulness I brought to projects like the critical making assignment and the multimedia essay. I recognize I have areas of improvement like spending more time refining the visual aspects of the essay and trying different ways to create a physical model. Overall, this course reshaped my understanding of digital humanities. It taught me that data can be more than just numbers, it can be a tool for storytelling and understanding the human experience. 
 
 
-# Works Cited
+### Works Cited
 1. Lupi, Giorgia. “ Finding Humanity in Data.” Youtube video. June 26, 2019. [https://www.youtube.com/watch?v=IYRhCZ0vvFQ](https://www.youtube.com/watch?v=IYRhCZ0vvFQ)
 2. The History Project Documenting LGBTQ Boston “Out of the Archives: Trans History, Linked: A Conversation about the Digital Transgender Archive” Youtube Video. February 1, 2021. [https://www.youtube.com/watch?v=fpvg58F6pL8](https://www.youtube.com/watch?v=fpvg58F6pL8)
 
